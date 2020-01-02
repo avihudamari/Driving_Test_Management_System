@@ -1,0 +1,51 @@
+C:\Users\Golan\source\repos\ClassLibrary1\MY_DAL\bin\Debug\MY_DAL.dll
+C:\Users\Golan\source\repos\ClassLibrary1\MY_DAL\bin\Debug\MY_DAL.pdb
+C:\Users\Golan\source\repos\ClassLibrary1\MY_DAL\bin\Debug\MY_BE.dll
+C:\Users\Golan\source\repos\ClassLibrary1\MY_DAL\bin\Debug\MY_BE.pdb
+C:\Users\Golan\source\repos\ClassLibrary1\MY_DAL\obj\Debug\MY_DAL.csprojAssemblyReference.cache
+C:\Users\Golan\source\repos\ClassLibrary1\MY_DAL\obj\Debug\MY_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Golan\source\repos\ClassLibrary1\MY_DAL\obj\Debug\MY_DAL.csproj.CopyComplete
+C:\Users\Golan\source\repos\ClassLibrary1\MY_DAL\obj\Debug\MY_DAL.dll
+C:\Users\Golan\source\repos\ClassLibrary1\MY_DAL\obj\Debug\MY_DAL.pdb
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_DAL\bin\Debug\MY_DAL.dll
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_DAL\bin\Debug\MY_DAL.pdb
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_DAL\bin\Debug\MY_BE.dll
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_DAL\bin\Debug\MY_BE.pdb
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csprojAssemblyReference.cache
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csproj.CoreCompileInputs.cache
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csproj.CopyComplete
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.dll
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csprojAssemblyReference.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\bin\Debug\MY_DAL.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\bin\Debug\MY_DAL.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\bin\Debug\DS.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\bin\Debug\MY_BE.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\bin\Debug\DS.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\bin\Debug\MY_BE.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csproj.CopyComplete
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\bin\Debug\MY_DAL.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\bin\Debug\MY_DAL.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\bin\Debug\DS.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\bin\Debug\MY_BE.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\bin\Debug\DS.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\bin\Debug\MY_BE.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csprojAssemblyReference.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csproj.CopyComplete
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\bin\Debug\MY_DAL.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\bin\Debug\MY_DAL.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\bin\Debug\DS.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\bin\Debug\MY_BE.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\bin\Debug\DS.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\bin\Debug\MY_BE.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csprojAssemblyReference.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.csproj.CopyComplete
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_DAL\obj\Debug\MY_DAL.pdb
