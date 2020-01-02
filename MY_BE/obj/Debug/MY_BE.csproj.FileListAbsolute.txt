@@ -1,0 +1,27 @@
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BE\bin\Debug\MY_BE.dll
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BE\bin\Debug\MY_BE.pdb
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BE\obj\Debug\MY_BE.csprojAssemblyReference.cache
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BE\obj\Debug\MY_BE.csproj.CoreCompileInputs.cache
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BE\obj\Debug\MY_BE.dll
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BE\obj\Debug\MY_BE.pdb
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.csprojAssemblyReference.cache
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.csproj.CoreCompileInputs.cache
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.dll
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BE\bin\Debug\MY_BE.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BE\bin\Debug\MY_BE.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.csproj.CoreCompileInputs.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.csprojAssemblyReference.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BE\bin\Debug\MY_BE.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BE\bin\Debug\MY_BE.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BE\bin\Debug\MY_BE.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BE\bin\Debug\MY_BE.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.csprojAssemblyReference.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BE\obj\Debug\MY_BE.pdb
