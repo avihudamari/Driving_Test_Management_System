@@ -1,0 +1,77 @@
+﻿<Window x:Class="PLWPF.Administrator"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="Administrator" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Menu Grid.Row="0">
+            <MenuItem Header="add">
+                <MenuItem Header="test" Click="add_test" />
+                <MenuItem Header="tester" Click="add_tester" />
+                <MenuItem Header="trainee" Click="add_trainee" />
+            </MenuItem>
+            <MenuItem Header="remove">
+                <MenuItem Header="tester" Click="Remove_tester"/>
+                <MenuItem Header="trainee" Click="Remove_trainee"/>
+            </MenuItem>
+            
+        </Menu>
+        <TabControl Grid.Row="1">
+            <TabItem Header="test list" PreviewMouseUp="refresh_tests">
+                <DataGrid AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" CanUserDeleteRows="False" Height="auto" Width="auto" HorizontalAlignment="Left" Margin="12,21,0,0"   
+                     x:Name="tests_list" VerticalAlignment="Top" RowHeight="30" ColumnWidth="100" >
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Test Number" Binding="{Binding Path=TestNumber}"/>
+                        <DataGridTextColumn Header="Trainee id" Binding="{Binding Path=TraineeId}"/>
+                        <DataGridTextColumn Header="Tester id" Binding="{Binding Path=TesterId}"/>
+                        <DataGridTextColumn Header="Test Vehicle" Binding="{Binding Path=TraineeVehicle}"/>
+                        <DataGridTextColumn Header="Date" Width="130" Binding="{Binding Path=TestDate}"/>
+                        <DataGridTextColumn Header="Adress" Binding="{Binding Path=TestAdress}"/>
+                        <DataGridTextColumn Header="Tester Notes" Binding="{Binding Path=TesterNote}"/>
+                        <DataGridTextColumn Header="Is Checked" Binding="{Binding Path=isCheacked}"/>
+                    </DataGrid.Columns>
+                </DataGrid>
+            </TabItem>
+            <TabItem Header="testers list" Height="22" Margin="-1,0,-2.667,0" VerticalAlignment="Top" PreviewMouseUp="refresh_testers">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <DataGrid AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" CanUserDeleteRows="False" Grid.Row="1" Height="auto" Width="auto" HorizontalAlignment="Left" Margin="12,21,0,0"   
+                         x:Name="testers_list" VerticalAlignment="Top" RowHeight="40" ColumnWidth="100" >
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="ID" Binding="{Binding Path=id}"/>
+                            <DataGridTextColumn Header="Last Name" Binding="{Binding Path=FamilyName}"/>
+                            <DataGridTextColumn Header="First Name" Binding="{Binding Path=PrivateName}"/>
+                            <DataGridTextColumn Header="Birthe Date" Binding="{Binding Path=BirthDate }"/>
+                            <DataGridTextColumn Header="Gender" Binding="{Binding Path=TesterGender }"/>
+                            <DataGridTextColumn Header="Phone Number" Binding="{Binding Path=PhoneNumber }"/>
+                            <DataGridTextColumn Header="Adress" Binding="{Binding Path=TesterAdress }"/>
+                            <DataGridTextColumn Header="Seniority" Binding="{Binding Path=Seniority }"/>
+                            <DataGridTextColumn Header="Max tests" Binding="{Binding Path=MaxWeeklyTests }"/>
+                            <DataGridTextColumn Header="Vehicle" Binding="{Binding Path=TesterVehicle }"/>
+                            <DataGridTextColumn Header="Max Distance" Binding="{Binding Path=MaxDistance }"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+            <TabItem Header="trainee list" PreviewMouseUp="refresh_trainees">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <DataGrid AutoGenerateColumns="True" IsReadOnly="True" CanUserAddRows="False" CanUserDeleteRows="False" Grid.Row="1" Height="auto" Width="auto" HorizontalAlignment="Left" Margin="12,21,0,0"   
+                     x:Name="trainees_list" VerticalAlignment="Top" RowHeight="40" ColumnWidth="100">
+                    </DataGrid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

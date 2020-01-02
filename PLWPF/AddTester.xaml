@@ -1,0 +1,152 @@
+﻿<Window x:Class="PLWPF.AddTester"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="AddTester" Height="630" Width="480">
+
+    <Grid>
+        <Border BorderThickness="1" BorderBrush="Gray" Padding="10" CornerRadius="10">
+            <Grid  x:Name="addtestergrid">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+
+                <TextBlock Text="new tester" />
+                <Grid Grid.Row="1">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="12*"/>
+                        <ColumnDefinition Width="25*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+
+                    <Label Content="Private Name" />
+                    <TextBox Text="{Binding Path=PrivateName, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="0" x:Name="privateName" />
+                    <Label Content="Family Name" Grid.Row="1" />
+                    <TextBox Text="{Binding Path=FamilyName, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="1" x:Name="familyName" />
+                    <Label Content="Id" Grid.Row="2" />
+                    <TextBox Text="{Binding Path=id, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="2" x:Name="id" />
+                    <Label Content="Tester Gender" Grid.Row="3" />
+                    <ComboBox Text="{Binding Path=TesterGender, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="3" x:Name="testerGender" />
+                    <Label Content="Birth Date" Grid.Row="4" />
+                    <DatePicker SelectedDate="{Binding Path=BirthDate, Mode=OneWayToSource}" SelectedDateFormat="Short" Grid.Column="1" Grid.Row="4" x:Name="birthDate" />
+                    <Label Content="Tester Vehicle" Grid.Row="5" />
+                    <ComboBox SelectedItem="{Binding Path=TesterVehicle, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="5" x:Name="testerVehicle" />
+                    <Label Content="Seniority" Grid.Row="6" />
+                    <TextBox Text="{Binding Path=Seniority, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="6" x:Name="seniority" />
+                    <Label Content="Phone Number" Grid.Row="7" />
+                    <TextBox Text="{Binding Path=PhoneNumber, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="7" x:Name="phoneNumber" />
+                    <Label Content="Max Distance" Grid.Row="8" />
+                    <TextBox Text="{Binding Path=MaxDistance, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="8" x:Name="maxDistance" />
+                    <Label Content="Max Weekly Tests" Grid.Row="9" />
+                    <TextBox Text="{Binding Path=MaxWeeklyTests, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="9" x:Name="maxWeeklyTests" />
+                    <Label Content="City" Grid.Row="10" />
+                    <TextBox Text="{Binding Path=TesterAdress.City, Mode=OneWayToSource}"  Grid.Column="1" Grid.Row="10" x:Name="adress_City" />
+                    <Label Content="Street Name" Grid.Row="11" />
+                    <TextBox Text="{Binding Path=TesterAdress.Street, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="11" x:Name="adress_Street" />
+                    <Label Content="House Number" Grid.Row="12" />
+                    <TextBox Text="{Binding Path=TesterAdress.HouseNumber, Mode=OneWayToSource}" Grid.Column="1" Grid.Row="12" x:Name="adress_HouseNumber" />
+                    <Button Content="add tester" Grid.Row="14" Click="Add_Tester_Button" Name="testerButton" Margin="0.333,176.333,10.333,-195" Grid.Column="1"/>
+                    <Label Content="schedule" Grid.Row="14" Grid.ColumnSpan="2" Margin="0,73.333,284.333,-100" />
+                </Grid>
+            </Grid>
+        </Border>
+        <Grid  x:Name="grid" HorizontalAlignment="Left" Height="139" Margin="145,396,-24.667,0" VerticalAlignment="Top" Width="353">
+            <TabControl HorizontalAlignment="Left" Width="310" >
+                <TabControl.Items>
+                    <TabItem Header="Sunday">
+                        <TabItem.Content>
+                            <StackPanel Margin="0,0,-1,-0.333">
+
+                                <CheckBox  x:Name="s0" Content="9:00 - 10:00" />
+                                <CheckBox   x:Name="s1" Content="10:00 - 11:00" />
+                                <CheckBox x:Name="s2" Content="11:00 - 12:00" />
+                                <CheckBox x:Name="s3" Content="12:00 - 13:00" />
+                                <CheckBox  x:Name="s4" Content="13:00 - 14:00" />
+                                <CheckBox  x:Name="s5" Content="14:00 - 15:00" />
+
+                            </StackPanel>
+                        </TabItem.Content>
+                    </TabItem>
+                    <TabItem Header="Monday">
+                        <TabItem.Content>
+                            <StackPanel>
+                                <CheckBox  x:Name="m0" Content="9:00 - 10:00" />
+                                <CheckBox   x:Name="m1" Content="10:00 - 11:00" />
+                                <CheckBox x:Name="m2" Content="11:00 - 12:00" />
+                                <CheckBox x:Name="m3" Content="12:00 - 13:00" />
+                                <CheckBox  x:Name="m4" Content="13:00 - 14:00" />
+                                <CheckBox  x:Name="m5" Content="14:00 - 15:00" />
+
+                            </StackPanel>
+                        </TabItem.Content>
+                    </TabItem>
+                    <TabItem Header="Tuesday">
+
+                        <TabItem.Content>
+                            <StackPanel>
+                                <CheckBox  x:Name="w0" Content="9:00 - 10:00" />
+                                <CheckBox   x:Name="w1" Content="10:00 - 11:00" />
+                                <CheckBox x:Name="w2" Content="11:00 - 12:00" />
+                                <CheckBox x:Name="w3" Content="12:00 - 13:00" />
+                                <CheckBox  x:Name="w4" Content="13:00 - 14:00" />
+                                <CheckBox  x:Name="w5" Content="14:00 - 15:00" />
+
+                            </StackPanel>
+                        </TabItem.Content>
+                    </TabItem>
+                    <TabItem Header=" Wednesday">
+
+                        <TabItem.Content>
+                            <StackPanel>
+                                <CheckBox  x:Name="t0" Content="9:00 - 10:00" />
+                                <CheckBox   x:Name="t1" Content="10:00 - 11:00" />
+                                <CheckBox x:Name="t2" Content="11:00 - 12:00" />
+                                <CheckBox x:Name="t3" Content="12:00 - 13:00" />
+                                <CheckBox  x:Name="t4" Content="13:00 - 14:00" />
+                                <CheckBox  x:Name="t5" Content="14:00 - 15:00" />
+
+                            </StackPanel>
+                        </TabItem.Content>
+                    </TabItem>
+                    <TabItem Header="Thursday">
+
+                        <TabItem.Content>
+                            <StackPanel >
+                                <CheckBox  x:Name="h0" Content="9:00 - 10:00" />
+                                <CheckBox   x:Name="h1" Content="10:00 - 11:00" />
+                                <CheckBox x:Name="h2" Content="11:00 - 12:00" />
+                                <CheckBox x:Name="h3" Content="12:00 - 13:00" />
+                                <CheckBox  x:Name="h4" Content="13:00 - 14:00" />
+                                <CheckBox  x:Name="h5" Content="14:00 - 15:00" />
+                            </StackPanel>
+                        </TabItem.Content>
+                    </TabItem>
+                </TabControl.Items>
+            </TabControl>
+
+        </Grid>
+    </Grid>
+</Window>
