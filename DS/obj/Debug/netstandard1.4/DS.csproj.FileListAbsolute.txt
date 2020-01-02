@@ -1,0 +1,33 @@
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\bin\Debug\netstandard1.4\DS.deps.json
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\bin\Debug\netstandard1.4\DS.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\bin\Debug\netstandard1.4\DS.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\bin\Debug\netstandard1.4\MY_BE.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\bin\Debug\netstandard1.4\MY_BE.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.csprojAssemblyReference.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.csproj.CoreCompileInputs.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.AssemblyInfo.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.csproj.CopyComplete
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\bin\Debug\netstandard1.4\DS.deps.json
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\bin\Debug\netstandard1.4\DS.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\bin\Debug\netstandard1.4\DS.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\bin\Debug\netstandard1.4\MY_BE.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\bin\Debug\netstandard1.4\MY_BE.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.csprojAssemblyReference.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.AssemblyInfo.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.csproj.CopyComplete
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\bin\Debug\netstandard1.4\DS.deps.json
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\bin\Debug\netstandard1.4\DS.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\bin\Debug\netstandard1.4\DS.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\bin\Debug\netstandard1.4\MY_BE.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\bin\Debug\netstandard1.4\MY_BE.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.csprojAssemblyReference.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.AssemblyInfo.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.csproj.CopyComplete
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\DS\obj\Debug\netstandard1.4\DS.pdb
