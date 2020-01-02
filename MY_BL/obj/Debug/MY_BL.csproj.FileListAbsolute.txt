@@ -1,0 +1,54 @@
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\bin\Debug\MY_BL.dll
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\bin\Debug\MY_BL.pdb
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\bin\Debug\MY_BE.dll
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\bin\Debug\MY_DAL.dll
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\bin\Debug\MY_BE.pdb
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\bin\Debug\MY_DAL.pdb
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\obj\Debug\MY_BL.csprojAssemblyReference.cache
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\obj\Debug\MY_BL.csproj.CoreCompileInputs.cache
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\obj\Debug\MY_BL.csproj.CopyComplete
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\obj\Debug\MY_BL.dll
+C:\Users\Golan\source\repos\ClassLibrary1\MY_BL\obj\Debug\MY_BL.pdb
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csprojAssemblyReference.cache
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csproj.CoreCompileInputs.cache
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.dll
+C:\Users\OriBibi\source\repos\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csprojAssemblyReference.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csproj.CoreCompileInputs.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\bin\Debug\MY_BL.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\bin\Debug\MY_BL.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\bin\Debug\MY_BE.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\bin\Debug\MY_DAL.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\bin\Debug\DS.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\bin\Debug\MY_BE.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\bin\Debug\MY_DAL.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\bin\Debug\DS.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csproj.CopyComplete
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\bin\Debug\MY_BL.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\bin\Debug\MY_BL.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\bin\Debug\MY_BE.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\bin\Debug\MY_DAL.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\bin\Debug\DS.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\bin\Debug\MY_BE.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\bin\Debug\MY_DAL.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\bin\Debug\DS.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csprojAssemblyReference.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csproj.CopyComplete
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\bin\Debug\MY_BL.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\bin\Debug\MY_BL.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\bin\Debug\MY_BE.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\bin\Debug\MY_DAL.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\bin\Debug\DS.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\bin\Debug\MY_BE.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\bin\Debug\MY_DAL.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\bin\Debug\DS.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csprojAssemblyReference.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.csproj.CopyComplete
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\MY_BL\obj\Debug\MY_BL.pdb
