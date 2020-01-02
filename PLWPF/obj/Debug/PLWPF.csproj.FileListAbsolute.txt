@@ -1,0 +1,120 @@
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\AddTester.g.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\App.g.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\MY_BE.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\MY_BL.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\MY_DAL.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\DS.dll
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\MY_BE.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\MY_BL.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\MY_DAL.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\bin\Debug\DS.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\AddTester.baml
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\Administrator.g.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\Administrator.baml
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\testerwindow.g.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\testerwindow.baml
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\addTrainee.g.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\addTrainee.baml
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\addTest.g.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\addTest.baml
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\traineeWindow.g.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\traineeWindow.baml
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\testUpdateWindow.g.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\testUpdateWindow.baml
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\RemoveWindow.g.cs
+C:\Users\Golan\source\repos\mini-project-lvl1\PLWPF\obj\Debug\RemoveWindow.baml
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\MY_BE.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\MY_BL.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\MY_DAL.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\DS.dll
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\MY_BE.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\MY_BL.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\MY_DAL.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\addTest.g.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\AddTester.g.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\addTrainee.g.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\Administrator.g.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\RemoveWindow.g.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\testerwindow.g.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\testUpdateWindow.g.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\traineeWindow.g.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\addTest.baml
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\AddTester.baml
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\addTrainee.baml
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\Administrator.baml
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\RemoveWindow.baml
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\testerwindow.baml
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\testUpdateWindow.baml
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\traineeWindow.baml
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avihu\Desktop\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\MY_BE.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\MY_BL.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\MY_DAL.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\DS.dll
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\MY_BE.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\MY_BL.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\MY_DAL.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\bin\Debug\DS.pdb
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\addTest.g.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\AddTester.g.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\addTrainee.g.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\Administrator.g.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\RemoveWindow.g.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\testerwindow.g.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\testUpdateWindow.g.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\traineeWindow.g.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\App.g.cs
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\addTest.baml
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\AddTester.baml
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\addTrainee.baml
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\Administrator.baml
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\RemoveWindow.baml
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\testerwindow.baml
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\testUpdateWindow.baml
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\traineeWindow.baml
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\Avihu\Desktop\לימודים\שנה ג\א\מיני פרויקט בחלונות\mini-project-lvl1\PLWPF\obj\Debug\PLWPF.pdb
